@@ -1,4 +1,4 @@
-# power-bi-dashboard 1
+1 # power-bi-dashboard 1
 **E-commerce sales data 🔢**
 Transforming e-commerce analytics with our dynamic Power BI dashboard. Discover actionable insights for growth and optimization.
 Analyzing eCommerce sales data in Power BI involves several steps to gain insights and make data-driven decisions. 
@@ -17,7 +17,7 @@ Conversion rate
 Sales growth rate
 Profit margins
 
-**STORE SALES DASHBOARD**
+2 **STORE SALES DASHBOARD**
 
 eCommerce sales data into Power BI. This data may include information such as order date, product details, customer information, sales amount, discounts, shipping costs, etc.
 Cleaned and transform the data as needed, addressing issues like missing values, duplicates, and data formatting inconsistencies.
@@ -39,7 +39,7 @@ Visualize Sales Trends:
 Create visuals such as line charts, area charts, or bar charts to visualize sales trends over time. Analyze monthly or quarterly sales trends, identify seasonality patterns, and track overall sales performance.
 
 
-**HR ANALYTICAL DASHBAORD**
+3 **HR ANALYTICAL DASHBAORD**
 
 Collected relevant HR data from various sources such as HRIS (Human Resource Information System), payroll systems, employee surveys, etc.
 Cleaned and prepare the data by addressing any missing values, duplicates, or inconsistencies.
